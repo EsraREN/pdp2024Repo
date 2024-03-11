@@ -2,7 +2,7 @@ package test;
 
 public class B{
 /**
-/**
+
 
 
 public static deneme(){
