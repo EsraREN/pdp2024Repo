@@ -3,7 +3,7 @@ package test;
 public class B{
 /**
 /**
- * A javadoc comment.
+
 
  */
 public static deneme(){
