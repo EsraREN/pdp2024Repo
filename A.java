@@ -1,7 +1,7 @@
 package test;
 
 public class B{
-
+/**
 /**
  * A javadoc comment.
  * @param args
