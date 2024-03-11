@@ -5,7 +5,6 @@ public class B{
 /**
 
 
- */
 public static deneme(){
 
     System.out.println("/* This isn't a comment */");
