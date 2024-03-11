@@ -4,7 +4,7 @@ public class B{
 /**
 /**
  * A javadoc comment.
- * @param args
+
  */
 public static deneme(){
 
