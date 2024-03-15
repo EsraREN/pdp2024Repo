@@ -4,7 +4,9 @@ package test;
 /* şşşş lll */
 
 public class B{
-
+/**
+*
+*/
 
 public static deneme(){
 
